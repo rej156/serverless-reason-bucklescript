@@ -1,0 +1,10 @@
+{
+  "name": "hello",
+  "sources": [
+    "src"
+  ],
+  "bs-dependencies": [
+    "reason-js"
+  ],
+  "generate-merlin": true
+}
