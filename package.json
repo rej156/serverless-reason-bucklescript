@@ -12,6 +12,7 @@
   "dependencies": {
     "bs-loader": "^1.0.0",
     "bs-platform": "^1.5.0",
-    "reason-js": "0.0.16"
+    "reason-js": "0.0.16",
+    "serverless": "^1.8.0"
   }
 }
