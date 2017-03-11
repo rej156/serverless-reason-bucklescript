@@ -1,4 +1,4 @@
-# bs-loader example
+# ReasonML via bucklescript example
 
 This is an example use case for `bs-loader`
 
@@ -9,7 +9,14 @@ This is an example use case for `bs-loader`
 ## Building the example
 
 ```
+./install-ninja.sh
 npm run build
 ```
 
 You'll be able to see the Bucklescript output in `lib/` and the Webpack output in `build/`
+
+## Invoking the lambda function locally
+
+```
+npm run invoke-local
+```
